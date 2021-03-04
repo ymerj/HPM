@@ -1,0 +1,22 @@
+{
+  "author": "Yves Mercier",
+  "gitHubUrl": "https://github.com/ymerj",
+  "packages": [
+    {
+      "name": "Home Assistant Device Bridge",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/ymerj/HE-HA-control/main/packageManifest.json",
+      "description": "Utilize your existing Home Assistant devices in Hubitat Elevation automations.",
+      "tags": [
+        "Doors & Windows",
+        "Garage Doors",
+        "Lights & Switches",
+        "Misc. Devices",
+        "Temperature & Humidity",
+        "Tools & Utilities",
+        "Water"
+      ]
+    }  
+  ],
+  "id": "d98b9e68-2152-4246-9991-ef5044b4b2ef"
+}
